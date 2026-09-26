@@ -47,3 +47,6 @@ Authors
   
 Department of Computer Technology and Computation
 University of Alicante, Spain
+
+License Information
+This project is licensed under the GPL-3.0 License.
